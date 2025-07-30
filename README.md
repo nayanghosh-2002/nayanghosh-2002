@@ -12,12 +12,12 @@
   <table>
   <tr>
     <td width="60%" valign="top">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coder GIF" />
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="Coder GIF" />
 
 
 </td>
-<td width="40%" align="right">
-  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&width=400&lines=Namaste%2C+I'm+Nayan+Ghosh;MERN+Stack+Developer;Blockchain+Explorer;Hackathon+Lover;Late+Night+Coder" alt="Typing SVG" /></p><br>
+<td width="40%" align="center">
+  <p align="center"><p align="center">Namaste I'm Nayan Ghosh</p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&width=400&lines=MERN+Stack+Developer;Blockchain+Explorer;Hackathon+Lover;Late+Night+Coder" alt="Typing SVG" /></p><br>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=nayanghosh-2002&label=👁‍🗨+Profile+Views&color=6A5ACD&style=for-the-badge" alt="Profile Views" /></p>
 </td>
 </tr>
